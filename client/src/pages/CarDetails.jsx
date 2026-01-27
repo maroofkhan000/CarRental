@@ -1,7 +1,7 @@
 import React from "react";
 
-const Cars = () => {
+const CarDetails = () => {
   return <div></div>;
 };
 
-export default Cars;
+export default CarDetails;
